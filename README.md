@@ -92,9 +92,9 @@ As shown below, t2 contains <i>imagesTr</i> and <i>labelsTr</i> folders, which c
 1 Read the nii.gz files in imagesTr and labelsTr.<br>
 2 Normalize the images read from imagesTr. <br>
 3 Exclude empty masks and corresponding images.<br>
-2 Convert those sizes to 512x512 pixels.<br>
-3 Rotate them 270 degrees counterclockwise.<br>
-4 Save them as the JPEG files.<br>
+4 Convert those sizes to 512x512 pixels.<br>
+5 Rotate them 270 degrees counterclockwise.<br>
+6 Save them as the JPEG files.<br>
 <br>   
 And finally it creates the following 512x512 JPEG format master dataset with images and masks subsets.<br> 
 <pre>
