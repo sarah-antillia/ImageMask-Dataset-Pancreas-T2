@@ -11,7 +11,7 @@ You can download our 512x512 ImageMask Dataset generated here
 <a href="https://drive.google.com/file/d/12gCJLIhqOG52-VpOWxYG14r54KR66CiT/view?usp=sharing">Pancreas-T2-ImageMaskDataset-V1.zip</a>, which is a subset of T2W (t2.zip) 
 in the original Pancreas_MRI_Dataset of OSF Storage <a href="https://osf.io/kysnj/">
 <b>PanSegData.</b></a><br>
-
+<br>
 <b>Samples of Pancreas-T2-ImageMask-Dataset</b><br>
 <hr>
 <table>
