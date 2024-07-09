@@ -48,10 +48,7 @@ Mask
 
 <h3>1. Dataset Citation</h3>
 
-The dataset used here has been taken from the following 
-<a href="https://osf.io/kysnj/">
-<b>PanSegData</b>
-</a><br>
+The dataset used here has been taken from OSF HOME <a href="https://osf.io/kysnj/"><b>PanSegData</b></a><br>
 Contributors: Ulas Bagci Debesh Jha Zheyuan Zhang Elif Keles<br>
 Date created: 2024-04-28 02:14 PM | Last Updated: 2024-07-08 11:41 PM<br>
 Identifier: DOI 10.17605/OSF.IO/KYSNJ<br>
@@ -74,7 +71,7 @@ please download the original set from <a href="https://osf.io/kysnj/">
      └─t2.zip
 </pre>
 
-
+<br>
 <h3>3. Generate master dataset </h3>
 Please run the following command for Python script 
 <a href="./ImageMaskDatasetGenerator.py">ImageMaskDatasetGenetator.py</a> to generate
